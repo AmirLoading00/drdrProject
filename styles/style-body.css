@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Vazirmatn";
+    src: url(../assest/fonts/Vazir-Thin-FD-WOL.ttf);
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+
+  @font-face {
+    font-family: "Vazirmatn";
+    src: url(../assest/fonts/Vazir-Light-FD-WOL.ttf);
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Vazirmatn";
+    src: url(../assest/fonts/Vazir-Medium-FD-WOL.ttf);
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: "Vazirmatn";
+    src: url(../assest/fonts/Vazir-Bold-FD-WOL.ttf);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+body{
+    font-family: "Vazirmatn";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+input ,button{
+    font-family: "Vazirmatn";
+}

@@ -1,0 +1,90 @@
+header{
+    box-shadow: 0px 0px 10px 0px  rgba(50, 50, 50, 0.09);
+}
+.full-header{
+    margin: 0px 178.889px 0px 178.889px;
+    
+}
+
+.header-top {
+    display: flex;
+    padding: 16px 0px 8px 0px;
+    text-align: center;
+    justify-content: space-between;
+}
+.drdr-icon{
+    width: 150px;
+    height: 41px;
+}
+
+.login-btn{
+    margin: 0;
+    
+}
+.login-button {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: transparent;
+    color: rgb(0, 78, 155);
+    border: 1px solid  rgb(0, 78, 155);
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.login-button svg{
+    stroke: currentColor;
+    width: 27px;
+    height: 27px;
+    padding-left: 5px;
+}
+.login-btn-title{
+    font-size: 16px
+}
+
+
+/* header bottom */
+.header-bottom{
+    display: flex;
+    font-size: 14px;
+    justify-content: space-between;
+    
+    
+}
+.navbar-right-section{
+    display: flex;
+    gap: 10px;
+    
+
+}
+
+.navbar-right-section a{
+    text-decoration: none;
+    color: black;
+}
+
+.link-4{
+    display: flex;
+    text-align: center;
+}
+
+.link-4 svg{
+    
+    stroke: currentColor;
+    width: 16px;
+    height: 16px;
+    padding-top: 5px;
+    padding-right: 3px;
+    
+}
+.for-drs a{
+    text-decoration: none;
+    color: #1AAB49;
+    
+}
+.for-drs a:hover{
+    color: #14883a;
+}
+
+
+
